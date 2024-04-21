@@ -56,6 +56,7 @@
             [
                 new Social("LinkedIn", "Se de erfaringer jeg har og hvad jeg laver til hverdag lige nu"),
                 new Social("XSploit", "Cyber Security Capture The Flag Team Github"),
+                new Social("Snapchat", "Tilføj mig på snapchat"),
                 new Social("Github", "Min egen Gthub, hvor man kan finde nogle af mine projekter"),
                 new Social("Portfolio", "En samling af projekter jeg har lavet og bliver brugt af andre"),
                 new Social("Email", "Email")
