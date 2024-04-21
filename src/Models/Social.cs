@@ -19,7 +19,7 @@
             {
                 if (Platform.ToLower() == "email")
                 {
-                    return "mailto:jasper@jazper.dk";
+                    return "mailto:magnus@mt-integrations.dk";
                 }
                 else
                 {
@@ -56,7 +56,6 @@
             [
                 new Social("LinkedIn", "Se de erfaringer jeg har og hvad jeg laver til hverdag lige nu"),
                 new Social("XSploit", "Cyber Security Capture The Flag Team Github"),
-                new Social("Twitter", "Bruger sjældent Twitter, men her er et link til den"),
                 new Social("Github", "Min egen Gthub, hvor man kan finde nogle af mine projekter"),
                 new Social("Portfolio", "En samling af projekter jeg har lavet og bliver brugt af andre"),
                 new Social("Email", "Email")

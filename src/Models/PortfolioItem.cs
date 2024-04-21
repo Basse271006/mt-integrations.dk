@@ -18,11 +18,7 @@
         {
             PortfolioItem[] portfolioItems =
             [
-                new PortfolioItem("Guildy", "Danmarks største discord chat bot, skrevet i Python.", "https://guildy.dk"),
-                new PortfolioItem("Bump Buddy", "En discord bot der sender reminders, den er på over 20.000 discord servere.", "https://bumpbuddy.xyz"),
-                new PortfolioItem("Korterelink", "En hjemmeside der gør links kortere til deling.", "https://korterelink.dk"),
-                new PortfolioItem("dmr.py", "En python package der webscraper motorregisteret og gør dataen let tilgængelig.", "https://pypi.org/project/dmr.py"),
-                new PortfolioItem("Jazper.dk", "Denne lille hjemmeside lavet i C# med ASP.NET.", "https://github.com/j4asper/Jazper.dk")
+                new PortfolioItem("Guildy", "Danmarks største discord chat bot, skrevet i Python.", "https://guildy.dk")
             ];
 
             return portfolioItems;

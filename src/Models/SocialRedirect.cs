@@ -15,12 +15,10 @@
         {
             SocialRedirect[] socialRedirects = new SocialRedirect[]
             {
-                new SocialRedirect("github", "https://github.com/j4asper"),
-                new SocialRedirect("gitlab", "https://gitlab.com/j4asper"),
-                new SocialRedirect("snapchat", "https://www.snapchat.com/add/j4azper"),
-                new SocialRedirect("linkedin", "https://www.linkedin.com/in/jasper-onsberg-christiansen"),
-                new SocialRedirect("twitter", "https://twitter.com/Jazper1901"),
-                new SocialRedirect("steam", "https://steamcommunity.com/id/Jasper1901"),
+                new SocialRedirect("github", "https://github.com/basse271006"),
+                new SocialRedirect("snapchat", "https://www.snapchat.com/add/basse271007"),
+                new SocialRedirect("linkedin", "https://www.linkedin.com/in/magnus-tolstrup/"),
+                new SocialRedirect("steam", "https://steamcommunity.com/id/Basse271006"),
                 new SocialRedirect("xsploit", "https://xsplo.it/")
             };
 
